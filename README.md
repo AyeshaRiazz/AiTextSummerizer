@@ -28,5 +28,3 @@ It is designed to help users quickly understand large content by generating conc
 - Newtonsoft.Json  
 - Visual Studio  
 
----
-
