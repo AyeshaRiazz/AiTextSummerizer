@@ -98,6 +98,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Visual_Prog_Practical_Assignment_01.pdf" />
+    <None Include="Visual_Prog_Theory_Assignment_01.pdf" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
